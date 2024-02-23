@@ -18,7 +18,7 @@
 - [ ] Erste Tabellen erstellen in SQL
 - [ ] Spieler eingaben in die Tabellen
 - [ ] Tore eingaben in die Tabelle
-- [ ] 
+- [ ] Jahr eingaben in die Tabelle
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
