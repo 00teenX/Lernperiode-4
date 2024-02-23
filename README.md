@@ -22,7 +22,7 @@
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
 | 1   |     |     |     |     |
-| ... |     |     |     |     |
+| 2 |     |     |     |     |
 | 4   |     |     |     |     |
 
 ✍️ Heute habe ich... (50-100 Wörter)
