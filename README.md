@@ -12,11 +12,13 @@
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
-## 27.2.2024
+## 01.3.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Logisches Datenmodell erstellen für Fussball Datenbank
+- [ ] Erste Tabellen erstellen in SQL
+- [ ] Spieler eingaben in die Tabellen
+- [ ] Tore eingaben in die Tabelle
+- [ ] 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
