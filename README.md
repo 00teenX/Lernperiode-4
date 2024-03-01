@@ -14,22 +14,25 @@ Heute habe ich überlegt was ich für ein Projekt starten will. Ich habe mich f�
 
 ## 01.3.2024
 
-- [ ] Logisches Datenmodell erstellen für Fussball Datenbank
-- [ ] Erste Tabellen erstellen in SQL (Spieler, Tore, Teams)
-- [ ] Spieler eingaben in die Tabellen
-- [ ] Tore eingaben in die Tabelle
-- [ ] Teams eingaben in die Tabelle
+- [x] Logisches Datenmodell erstellen für Fussball Datenbank
+- [x] Erste Tabellen erstellen in SQL (Spieler, Tore)
+- [x] Spieler eingaben in die Tabellen
+- [x] Tore eingaben in die Tabelle
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --- | --- | --- | --- | --- |
-| 1   |  Tabelle   | SELECT * FROM (Die betroffene Tabelle)    | Leere Tabelle    | Nein    |
-| 2 | Tabelle ausgefüllt mit Spieler    | SELECT * FROM Spieler    | Ausgefüllte Tabelle    | Nein    |
-| 3   | Tabelle ausgefüllt mit Toren    | SELECT * FROM Tore    | Ausgefüllte Tabelle    | Nein    |
-| 4   | Tabelle ausgefüllt mit Teams     | SELECT * FROM Teams    | Ausgefüllte Tabelle    | Nein    |
+| 1   |  Tabelle   | SELECT * FROM (Die betroffene Tabelle)    | Leere Tabelle    | Ja    |
+| 2 | Tabelle ausgefüllt mit Spieler    | SELECT * FROM Spieler    | Ausgefüllte Tabelle    | Ja   |
+| 3   | Tabelle ausgefüllt mit Toren    | SELECT * FROM Tore    | Ausgefüllte Tabelle    | Ja    |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich das logische Datenmodell erstellt für die Fussballdatenbank und auch die ersten Tabellen. Es verlief ziemlich gut und ich hatte wenig Schwierigkeiten. Ich musste aber lange überlegen wie ich die Tabellen verknüpfe. Ich habe das erreicht was geplant war und ich hoffe das nächste mal ist es auch so.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+## 08.3.2024
+
+- [ ] Forms Design erstellen
+- [ ] Tutorial anschauen wie man SQL und Forms verknüpft
+- [ ] Code für die Eingaben erstellen
+- [ ] Code für die Ausgaben erstellen
 
 ## Reflexion
 
