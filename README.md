@@ -29,10 +29,18 @@ Heute habe ich überlegt was ich für ein Projekt starten will. Ich habe mich f�
 
 ## 08.3.2024
 
-- [ ] Forms Design erstellen
-- [ ] Tutorial anschauen wie man SQL und Forms verknüpft
+- [x] Forms Design erstellen
+- [x] Tutorial anschauen wie man SQL und Forms verknüpft
 - [ ] Code für die Eingaben erstellen
 - [ ] Code für die Ausgaben erstellen
+
+Heute habe ich das Forms design erstellt und ein paar Tutorials angeschaut, wie man SSMS mit Visual Studio verbindet. Das lief alles gut, aber ich habe gemerkt das ich nicht alle Daten eingetragen habe, die es für die Datenbank braucht. Das hat mir sehr viel Zeit genommen und ich konnte nicht ganz mit den Eingaben anfangen, weswegen ich die letzten zwei AP nicht fertig machen konnte. Nächste Woche hoffe ich das ich anfangen kann mit den Eingaben.
+
+## 15.3.2024
+
+- [ ] SSMS mit Visual Studio verbinden
+- [ ] Code für die Eingaben erstellen
+- [ ] Code für die Verknüpfungen erstellen
 
 ## Reflexion
 
