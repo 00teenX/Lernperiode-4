@@ -42,6 +42,12 @@ Heute habe ich das Forms design erstellt und ein paar Tutorials angeschaut, wie 
 - [ ] Code für die Eingaben erstellen
 - [ ] Code für die Verknüpfungen erstellen
 
+## 22.3.2024
+
+- [ ] SSMS mit Visual Studio verbinden
+- [ ] Code für die Eingaben erstellen
+- [ ] Code für die Verknüpfungen erstellen
+
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
