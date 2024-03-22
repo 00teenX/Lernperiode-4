@@ -44,9 +44,17 @@ Heute habe ich das Forms design erstellt und ein paar Tutorials angeschaut, wie 
 
 ## 22.3.2024
 
-- [ ] SSMS mit Visual Studio verbinden
+- [x] Die restlichen INSERT Befehle machen für die Daten, die fehlen
+- [x] SSMS mit Visual Studio verknüpfen
+- [x] Design umstrukturieren (da ich nicht zufrieden war)
+
+Heute habe ich relativ viel Zeit damit verbracht, die letzten INSERT-Befehle auszuführen. Es gab noch viele Daten, die ich bisher nicht vollständig eingefügt hatte. Ich habe auch SSMS erfolgreich mit Visual Studio verknüpft, was einen viel Aufwand erforderte. Die Anleitung im Tutorial war für mich nicht direkt umsetzbar, da einige Sachen anders waren bei mir. Daher musste ich zusätzliche Zeit investieren, um die notwendigen Informationen zu finden. Das Design von der Forms Anwendung habe ich auch umstrukturiert, da es mir nicht so gefallen hat. Es war insgesamt ein guter Nachmittag, sowie das Wetter heute :)
+
+## 05.04.2024
+
 - [ ] Code für die Eingaben erstellen
 - [ ] Code für die Verknüpfungen erstellen
+- [ ] Hoffentlich funktioniert es
 
 ## Reflexion
 
