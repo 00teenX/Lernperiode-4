@@ -66,3 +66,6 @@ In der darauffolgenden Woche verbrachte ich viel Zeit mit den Eingaben der INSER
 
 Ich habe es mir viel einfacher vorgestellt als das. Trotzdem konnte ich viele neue Fähigkeiten, erlernen und kenne mich jetzt besser mit SQL und Visual Studios aus. Ich hatte jetzt nicht so Erfolg mit meinem Projekt, aber in Zukunft werde ich sicher ein fertiges funktionierendes Projekt fertig bringen und stolz auf mich sein. [314 Wörter]
 
+Mein Verbesserungsvorschlag:
+
+Ich habe in dieser Lernperiode auch nicht so gut gearbeitet und deswegen ist auch dieses Resultat rausgekommen. Meinen Arbeitsstil muss ich anpassen, sodass ich die besten Ergebnisse erzielen kann. Ich muss mit mehr Disziplin und Motivation ran und dann wird das sicher etwas.  
