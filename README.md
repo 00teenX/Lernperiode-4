@@ -58,7 +58,7 @@ Heute habe ich relativ viel Zeit damit verbracht, die letzten INSERT-Befehle aus
 
 ## Reflexion
 
-In den letzten sechs Wochen habe ich mich mit der Erstellung einer Fußballdatenbank beschäftigt. Die ersten Schritte bestanden darin, ein logisches Datenmodell zu erstellen und die ersten Tabellen zu definieren. Obwohl ich anfangs Schwierigkeiten hatte, die Tabellen zu verknüpfen, konnte ich das geplante Ziel erreichen.
+In den letzten fünf Wochen habe ich mich mit der Erstellung einer Fußballdatenbank beschäftigt. Die ersten Schritte bestanden darin, ein logisches Datenmodell zu erstellen und die ersten Tabellen zu definieren. Obwohl ich anfangs Schwierigkeiten hatte, die Tabellen zu verknüpfen, konnte ich das geplante Ziel erreichen.
 
 Im weiteren Verlauf habe ich das Design der Formulare erstellt und mich mit der Verbindung von SSMS und Visual Studio auseinandergesetzt. Dabei stellte ich fest, dass ich nicht alle benötigten Daten in die Datenbank eingetragen hatte. Dies kostete mich viel Zeit und verhinderte, dass ich mit den Eingaben beginnen konnte.
 
