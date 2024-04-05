@@ -25,7 +25,7 @@ Heute habe ich überlegt was ich für ein Projekt starten will. Ich habe mich f�
 | 2 | Tabelle ausgefüllt mit Spieler    | SELECT * FROM Spieler    | Ausgefüllte Tabelle    | Ja   |
 | 3   | Tabelle ausgefüllt mit Toren    | SELECT * FROM Tore    | Ausgefüllte Tabelle    | Ja    |
 
-✍️ Heute habe ich das logische Datenmodell erstellt für die Fussballdatenbank und auch die ersten Tabellen. Es verlief ziemlich gut und ich hatte wenig Schwierigkeiten. Ich musste aber lange überlegen wie ich die Tabellen verknüpfe. Ich habe das erreicht was geplant war und ich hoffe das nächste mal ist es auch so.
+Heute habe ich das logische Datenmodell erstellt für die Fussballdatenbank und auch die ersten Tabellen. Es verlief ziemlich gut und ich hatte wenig Schwierigkeiten. Ich musste aber lange überlegen wie ich die Tabellen verknüpfe. Ich habe das erreicht was geplant war und ich hoffe das nächste mal ist es auch so.
 
 ## 08.3.2024
 
@@ -58,4 +58,11 @@ Heute habe ich relativ viel Zeit damit verbracht, die letzten INSERT-Befehle aus
 
 ## Reflexion
 
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+In den letzten sechs Wochen habe ich mich mit der Erstellung einer Fußballdatenbank beschäftigt. Die ersten Schritte bestanden darin, ein logisches Datenmodell zu erstellen und die ersten Tabellen zu definieren. Obwohl ich anfangs Schwierigkeiten hatte, die Tabellen zu verknüpfen, konnte ich das geplante Ziel erreichen.
+
+Im weiteren Verlauf habe ich das Design der Formulare erstellt und mich mit der Verbindung von SSMS und Visual Studio auseinandergesetzt. Dabei stellte ich fest, dass ich nicht alle benötigten Daten in die Datenbank eingetragen hatte. Dies kostete mich viel Zeit und verhinderte, dass ich mit den Eingaben beginnen konnte.
+
+In der darauffolgenden Woche verbrachte ich viel Zeit mit den Eingaben der INSERT-Befehle. Als ich das teilweise fertig hatte, fing ich an mir tutorials anzuschauen wie man SSMS mit Visual Studio verbindet. Ich habe es letztendlich geschafft, aber dann als ich den Code erstellte für die Abfrage der Spieler für die Forms anwendung, konnte ich mich nicht mehr mit der Datenbank verbinden. Ich weiss nicht ob ich während des arbeiten am Code etwas gedrückt habe, dass es nicht mehr funktioniert hat, oder ob es ein anderes Problem gab, aufjedenfall konnte ich mich nicht mehr mit der Datenbank verbinden und hatte so einen Code für Forms, der mir nichts brachte. Die Tabellen, die ich erstellt hatte, bringen mir jetzt auch nichts mehr, ausser ich frage die Daten direkt in SSMS ab.
+
+Ich habe es mir viel einfacher vorgestellt als das. Trotzdem konnte ich viele neue Fähigkeiten, erlernen und kenne mich jetzt besser mit SQL und Visual Studios aus. Ich hatte jetzt nicht so Erfolg mit meinem Projekt, aber in Zukunft werde ich sicher ein fertiges funktionierendes Projekt fertig bringen und stolz auf mich sein. [314 Wörter]
+
